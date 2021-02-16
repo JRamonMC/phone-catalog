@@ -19,6 +19,8 @@ The server has been developed with NodeJS, Express, MongoDB and Jest.
 
 The client has been developed with React, Bootstrap, Jest and Enzyme. 
 
+Here, you need to add to `.env` file this URL : `REACT_APP_API_URL=http://localhost:5000/api/phone`.
+
 - Go to `client` server and type `npm i` in order to install all required packages.
 - Run `npm start`. The client is available on localhost:3000.
 
@@ -51,5 +53,8 @@ That's all.
 
 Docker files has been added to server and client. Also, we've include a docker-compose.yml file to dockerize the app. 
 
-On the server side, you need to add to `.env` file this URL : `REACT_APP_API_URL=http://localhost:5000/api/phone`
+
+Also, you need to set  `MONGO_HOSTNAME=mongo` in your server `.env` file.
+
+
 
