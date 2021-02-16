@@ -1,0 +1,24 @@
+.btn {
+  border-radius: 44px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.card-cont {
+  min-width: 240px;
+  min-height: 350px;
+  margin: 80px 0 40px 0;
+  padding: 20px 4px;
+  text-align: center;
+  box-shadow: 0 15px 30px 0 rgba(0,0,0,.11), 0 5px 15px 0 rgba(0,0,0,.08);
+  border-radius: 24px;
+}
+
+.card {
+  transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+  cursor: pointer;
+}
+
+.img {
+  max-width: 200px;
+}

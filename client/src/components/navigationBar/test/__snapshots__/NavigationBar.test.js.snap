@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navigation Bar test Navigation Bar render 1`] = `
+<div>
+  <nav
+    className="navbar navbar-expand-lg navbar-dark bg-primary"
+  >
+    <div
+      className="container-fluid"
+    >
+      <a
+        className="navbar-brand"
+        href="/"
+      >
+        Phones Catalogue
+      </a>
+      <a
+        aria-current="page"
+        className="navbar-brand"
+        href="/add"
+      >
+        Add new phone
+      </a>
+    </div>
+  </nav>
+</div>
+`;

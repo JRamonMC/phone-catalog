@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Phone card Phone card without detail 1`] = `
+<div
+  className="card m-10 card-cont center"
+>
+  <div>
+    <ShowImage
+      className="img"
+      item={
+        Object {
+          "color": "test-c",
+          "description": "test-d",
+          "imageRaw": "test-i",
+          "manufacturer": "test-m",
+          "name": "test",
+          "price": "1",
+          "processor": "2",
+          "ram": "3",
+          "screen": "test-s",
+        }
+      }
+      url=""
+    />
+    <h3>
+      test
+    </h3>
+    <p
+      className="font-weight-light"
+    >
+      Price: 
+      1
+       $
+    </p>
+    <p
+      className="font-weight-light"
+    >
+      test-d
+    </p>
+    <div>
+      <p
+        className="font-weight-light"
+      >
+        Manufacturer: 
+        test-m
+      </p>
+      <p
+        className="font-weight-light"
+      >
+        Color: 
+        test-c
+      </p>
+      <p
+        className="font-weight-light"
+      >
+        Screen: 
+        test-s
+      </p>
+      <p
+        className="font-weight-light"
+      >
+        Processor: 
+        2
+      </p>
+      <p
+        className="font-weight-light"
+      >
+        RAM: 
+        3
+      </p>
+      <button
+        className="btn btn-secondary"
+        onClick={[Function]}
+      >
+        Delete
+      </button>
+    </div>
+  </div>
+</div>
+`;

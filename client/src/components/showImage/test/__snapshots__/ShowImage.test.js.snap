@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShowImage test Show image render 1`] = `
+<div
+  className="product-img"
+>
+  <img
+    alt="test"
+    className="mb-3 img-cont"
+    src="http://localhost:5000/api/phone/fakeUrlphoneimage/id"
+    style={
+      Object {
+        "maxHeight": "600px",
+        "maxWidth": "300px",
+      }
+    }
+  />
+</div>
+`;
