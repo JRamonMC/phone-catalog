@@ -1,6 +1,7 @@
 # phone-catalog
 
-This is a fullstack project made with Node and React. Technologies such as MongoDB, Jest and Bootstrap have also been used. 
+This is a fullstack project made with Node and React. Technologies such as MongoDB, Jest and Bootstrap have also been used. More info in https://www.notion.so/Jose-Ramon-Some-thoughts-about-the-project-d170f61002f3455c9061c6a4c128ee3c
+
 
 ## Installation
 
